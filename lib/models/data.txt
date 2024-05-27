@@ -1,0 +1,36 @@
+
+User
+restaurants
+- id
+- name
+- Location
+
+Menu
+    - restaurant_id
+    - food type
+Oder
+Payment Method
+Voucher Promo
+Notification
+Rating
+Membership
+Testimony => for food or restaurants?
+
+
+Popular restaurants?
+Location?
+
+*****************************************
+
+key point:
+1. Authentication: login, sign up
+2. Home
+3. Cart and Checkout 
+4. Account
+5. Product Detail 
+6. API later. 
+
+Note: pls do as model and mock data first.
+
+
+
